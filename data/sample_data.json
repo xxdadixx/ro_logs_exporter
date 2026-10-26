@@ -1,0 +1,27 @@
+{
+    "accounts": [
+      { "account_id": "ACC_99001" }
+    ],
+    "characters": [
+      {
+        "character_id": "CHAR_ASSASSIN_01",
+        "account_id": "ACC_99001",
+        "character_name": "ShadowBlade",
+        "job_class": "Assassin Cross",
+        "base_level": 96,
+        "job_level": 62,
+        "str_attr": 99, "agi_attr": 90, "vit_attr": 40, "int_attr": 10, "dex_attr": 50, "luk_attr": 30,
+        "atk": 4250.0, "def_attr": 310.0, "crit": 65.0, "haste": 950.0
+      }
+    ],
+    "drops": [
+      {
+        "character_id": "CHAR_ASSASSIN_01",
+        "item_name": "Katar of Cold Leech",
+        "rarity": "Equipment",
+        "quantity": 1,
+        "monster_name": "Injustice",
+        "dropped_at": "2026-03-30T14:20:00Z"
+      }
+    ]
+  }
